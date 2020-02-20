@@ -1,0 +1,27 @@
+{
+  "name": "tryrbl099",
+  "version": "1.0.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "how-to-npm",
+    "verify": "how-to-npm verify"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.3",
+    "how-to-npm": "^2.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tryrbl099/webdev2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tryrbl099/webdev2/issues"
+  },
+  "homepage": "https://github.com/tryrbl099/webdev2#readme",
+  "description": ""
+}
