@@ -9,8 +9,8 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"javascripting",
-    "verify":"javascripting verify object-keys.js"
+    "start": "javascripting",
+    "verify": "javascripting verify introduction.js"
   },
   "keywords": [],
   "author": "",
